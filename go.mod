@@ -1,4 +1,4 @@
-module github.com/ttys3/gojieba-bleve/v2
+module github.com/gogather/gojieba-bleve/v2
 
 go 1.17
 
